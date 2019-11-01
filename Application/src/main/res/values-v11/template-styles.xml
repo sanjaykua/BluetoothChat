@@ -1,0 +1,10 @@
+<!--
+  ~ Copyright (c) Sanjay Kua 2019.
+  -->
+
+<resources>
+
+    <!-- Activity themes -->
+    <style name="Theme.Base" parent="android:Theme.Holo.Light" />
+
+</resources>
